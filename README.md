@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Sayed Ahmed Taha Ahmed</h1>
-<h3 align="center">Embedded Software Engineer | Front-End Enthusiast | Proficient in C, HTML, CSS, and JavaScript | Passionate About Building Innovative Solutions and User-Centric Designs</h3>
+<h3 align="center">Embedded Software Engineer | Network Enthusiast | Proficient in C, HTML, CSS, and JavaScript | Passionate About Building Innovative Solutions and User-Centric Designs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafasayedahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mostafasayedahmed" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CSS,JavaScript , ARM architecture and AutoSAR**
 
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 👯 I’m looking to collaborate on **Network Related Projects**
 
 - 🤝 I’m looking for help with **Seeking an Embedded Software position**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mostafa.sayed01028@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Go_U6fIxfkX0MWjiLAdCkwH_279aFVG/view?usp=sharing](https://drive.google.com/file/d/13Go_U6fIxfkX0MWjiLAdCkwH_279aFVG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13Go_U6fIxfkX0MWjiLAdCkwH_279aFVG/view?usp=sharing]([https://drive.google.com/file/d/13Go_U6fIxfkX0MWjiLAdCkwH_279aFVG/view?usp=sharing](https://drive.google.com/file/d/1UNi4maN9tX-MgcyKOr_AdI7Jo8nvSX0c/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
