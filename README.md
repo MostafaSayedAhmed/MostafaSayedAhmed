@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mostafa.sayed01028@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Go_U6fIxfkX0MWjiLAdCkwH_279aFVG/view?usp=sharing]([https://drive.google.com/file/d/13Go_U6fIxfkX0MWjiLAdCkwH_279aFVG/view?usp=sharing](https://drive.google.com/file/d/1UNi4maN9tX-MgcyKOr_AdI7Jo8nvSX0c/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1UNi4maN9tX-MgcyKOr_AdI7Jo8nvSX0c/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
